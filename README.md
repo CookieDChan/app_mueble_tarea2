@@ -56,7 +56,7 @@ Body (JSON):
 
 ### Confirmar Venta
 ```
-POST http://localhost:8080/api/cotizaciones/1/confirmar
+POST http://localhost:8080/api/cotizaciones/{id}/confirmar
 ```
 
 ## Ejecutar Tests
@@ -65,3 +65,10 @@ POST http://localhost:8080/api/cotizaciones/1/confirmar
 cd demo
 ./mvnw test
 ```
+## Uso de IA
+Para el desarrollo de esta tarea se utilizó la IA para:
+- Recomendar patrones de disño a utilizar
+- Apoyo en la programación de los patrones de diseño
+- Apoyo en la creación de los test
+- Crear las clases modelo
+- Redactar este README
