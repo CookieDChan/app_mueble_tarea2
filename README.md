@@ -1,6 +1,6 @@
 # Sistema de Muebleria - Backend
 
-Sistema backend con Spring Boot y MySQL para gestion de muebleria.
+- https://github.com/CookieDChan/app_mueble_tarea2
 
 ## Descripcion del Proyecto
 
